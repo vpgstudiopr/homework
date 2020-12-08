@@ -1,3 +1,4 @@
+
 console.log("Opening sucses");
 
 var welcomeText = document.getElementById("welcometext");
